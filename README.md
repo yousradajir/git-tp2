@@ -17,7 +17,7 @@
   
 ```java
     public void test2(){
-	    System.out.println("Je suis la méthode 3");
+	    System.out.println("Je suis la méthode 2");
     }
 ```  
   
