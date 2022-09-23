@@ -13,5 +13,12 @@
     }
 ```
 
-  2. Le fichier ClassB.java é également été modifié et ne doit plus contenir la méthode suivante : 
+  2. Le fichier TestB.java a également été modifié et ne doit plus contenir la méthode suivante : 
+  
+```java
+    public void test2(){
+	    System.out.println("Je suis la méthode 3");
+    }
+```  
+  
 * Commitez et publiez vos modifications sur GitHub
