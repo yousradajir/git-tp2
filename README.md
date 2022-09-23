@@ -21,4 +21,4 @@
     }
 ```  
   
-* Commitez et publiez vos modifications sur GitHub
+* __Commitez__ et __publiez__ vos modifications sur __GitHub__
