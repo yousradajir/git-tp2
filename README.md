@@ -21,4 +21,5 @@
     }
 ```  
   
+* Avant de commiter, modifiez le fichier __.gitignore__ et ajoutez-y .classpath
 * __Commitez__ et __publiez__ vos modifications sur __GitHub__
