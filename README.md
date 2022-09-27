@@ -5,7 +5,8 @@
 * Forkez le projet __git-tp2__
 * Clonez-le
 * Mergez la branche  __durand__  vers la branche  __master__  sachant que certaines modifications apportées par la branche   __durand__   nous intéressent. En bref : 
-  1. Dans le fichier ClassA.java une nouvelle méthode nous intéresse et doit être intégrée au master :
+  
+  * Dans le fichier ClassA.java une nouvelle méthode nous intéresse et doit être intégrée au master :
 
 ```java
     public void method3(){
@@ -13,7 +14,7 @@
     }
 ```
 
-  2. Le fichier TestB.java une méthode doit être supprimée : 
+   * Le fichier TestB.java une méthode doit être supprimée : 
   
 ```java
     public void test2(){
