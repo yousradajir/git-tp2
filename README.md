@@ -2,24 +2,11 @@
 
 ## Etapes du TP
 
-* Forkez le projet __git-tp2__
+* Forkez le projet **git-tp2**
 * Clonez-le
-* Mergez la branche  __durand__  vers la branche  __master__  sachant que certaines modifications apportées par la branche   __durand__   nous intéressent. En bref : 
-  1. Dans le fichier ClassA.java une nouvelle méthode nous intéresse et doit être intégrée au master :
-
-```java
-    public void method3(){
-	    System.out.println("Je suis la méthode 3");
-    }
-```
-
-  2. Le fichier TestB.java une méthode doit être supprimée : 
-  
-```java
-    public void test2(){
-	    System.out.println("Je suis la méthode 2");
-    }
-```  
-  
-* Avant de commiter, modifiez le fichier __.gitignore__ et ajoutez-y .classpath
-* __Commitez__ et __publiez__ vos modifications sur __GitHub__
+* Mergez la branche **durand** vers la branche **master** sachant que toutes les modifications doivent être reportées sur le master sauf celles concernant le fichier **ClassB.java**.
+* Avant de commiter, modifiez le fichier **.gitignore** et ajoutez-y une exclusions pour les ressources suivantes:
+  * le répertoire target
+  * le fichier .classpath
+  * tous les fichiers dont l'extension est .class
+* **Commitez** et **publiez** vos modifications sur **GitHub**
